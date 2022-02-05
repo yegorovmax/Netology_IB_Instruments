@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F96BD4627AE5B0C00977693 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F96BD4527AE5B0C00977693 /* Profile.storyboard */; };
 		52992E7627AB464F006BF34C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52992E7527AB464F006BF34C /* AppDelegate.swift */; };
 		52992E7827AB464F006BF34C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52992E7727AB464F006BF34C /* SceneDelegate.swift */; };
 		52992E7A27AB464F006BF34C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52992E7927AB464F006BF34C /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F96BD4527AE5B0C00977693 /* Profile.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
 		52992E7227AB464F006BF34C /* Netology_IB_Instruments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Netology_IB_Instruments.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52992E7527AB464F006BF34C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52992E7727AB464F006BF34C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				52992E7727AB464F006BF34C /* SceneDelegate.swift */,
 				52992E7927AB464F006BF34C /* ViewController.swift */,
 				52992E7B27AB464F006BF34C /* Main.storyboard */,
+				0F96BD4527AE5B0C00977693 /* Profile.storyboard */,
 				52992E7E27AB4651006BF34C /* Assets.xcassets */,
 				52992E8027AB4651006BF34C /* LaunchScreen.storyboard */,
 				52992E8327AB4651006BF34C /* Info.plist */,
@@ -242,6 +245,7 @@
 			files = (
 				52992EA927AB6F49006BF34C /* ProfileView.xib in Resources */,
 				52992E8227AB4651006BF34C /* LaunchScreen.storyboard in Resources */,
+				0F96BD4627AE5B0C00977693 /* Profile.storyboard in Resources */,
 				52992E7F27AB4651006BF34C /* Assets.xcassets in Resources */,
 				52992E7D27AB464F006BF34C /* Main.storyboard in Resources */,
 			);
