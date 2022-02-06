@@ -24,14 +24,6 @@
             <point key="canvasLocation" x="20" y="94"/>
         </scene>
         <!--Storyboard Reference-->
-        <scene sceneID="tpQ-dY-hM5">
-            <objects>
-                <viewControllerPlaceholder id="dDi-3q-hdQ" sceneMemberID="viewController"/>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="cuR-MN-0OY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="778" y="-203"/>
-        </scene>
-        <!--Storyboard Reference-->
         <scene sceneID="Zqd-Ra-EAQ">
             <objects>
                 <viewControllerPlaceholder id="EMi-Fn-j8I" sceneMemberID="viewController"/>
